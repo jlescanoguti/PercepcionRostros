@@ -1,0 +1,425 @@
+('D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+ 'Computacional\\proyecto_asistencia\\build\\reconocimiento\\reconocimiento.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\build\\reconocimiento\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\build\\reconocimiento\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\build\\reconocimiento\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\build\\reconocimiento\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\build\\reconocimiento\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\build\\reconocimiento\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('reconocimiento',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\reconocimiento.py',
+   'PYSOURCE'),
+  ('python310.dll', 'C:\\Program Files\\Python310\\python310.dll', 'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-13e2df515630b4a41f92893938845698.dll',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy.libs\\libscipy_openblas64_-13e2df515630b4a41f92893938845698.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-263139962577ecda4cd9469ca360a746.dll',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy.libs\\msvcp140-263139962577ecda4cd9469ca360a746.dll',
+   'BINARY'),
+  ('cv2\\opencv_videoio_ffmpeg4110_64.dll',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\opencv_videoio_ffmpeg4110_64.dll',
+   'BINARY'),
+  ('select.pyd', 'C:\\Program Files\\Python310\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Program Files\\Python310\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Program Files\\Python310\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Program Files\\Python310\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Program Files\\Python310\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd', 'C:\\Program Files\\Python310\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\Program Files\\Python310\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Program Files\\Python310\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Program Files\\Python310\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd', 'C:\\Program Files\\Python310\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Program Files\\Python310\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd', 'C:\\Program Files\\Python310\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('psutil\\_psutil_windows.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\psutil\\_psutil_windows.pyd',
+   'EXTENSION'),
+  ('win32\\win32pdh.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\win32\\win32pdh.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Program Files\\Python310\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Program Files\\Python310\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\random\\mtrand.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\random\\_sfc64.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\random\\_philox.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\random\\_pcg64.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\random\\_mt19937.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\random\\bit_generator.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\random\\_generator.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\random\\_common.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_dlib_pybind11.cp310-win_amd64.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\_dlib_pybind11.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('cv2\\cv2.pyd',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\cv2.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program Files\\Python310\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Program Files\\Python310\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Program Files\\Python310\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Program Files\\Python310\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Program Files\\Python310\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('python3.dll', 'C:\\Program Files\\Python310\\python3.dll', 'BINARY'),
+  ('pywin32_system32\\pywintypes310.dll',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\pywin32_system32\\pywintypes310.dll',
+   'BINARY'),
+  ('dlib_face_recognition_resnet_model_v1.dat',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\dlib_face_recognition_resnet_model_v1.dat',
+   'DATA'),
+  ('rostros\\Adrian Nicolas.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\Adrian Nicolas.jpg',
+   'DATA'),
+  ('rostros\\AlejandroOliden.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\AlejandroOliden.jpg',
+   'DATA'),
+  ('rostros\\AngelOncoy.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\AngelOncoy.jpg',
+   'DATA'),
+  ('rostros\\AnthonyLezcano.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\AnthonyLezcano.jpg',
+   'DATA'),
+  ('rostros\\BensonHilario.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\BensonHilario.jpg',
+   'DATA'),
+  ('rostros\\BryanMarin.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\BryanMarin.jpg',
+   'DATA'),
+  ('rostros\\CarlosMezones.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\CarlosMezones.jpg',
+   'DATA'),
+  ('rostros\\CharlieMorales.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\CharlieMorales.jpg',
+   'DATA'),
+  ('rostros\\DiegoVillajulca.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\DiegoVillajulca.jpg',
+   'DATA'),
+  ('rostros\\DrakoSuarez.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\DrakoSuarez.jpg',
+   'DATA'),
+  ('rostros\\FabricioUlco.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\FabricioUlco.jpg',
+   'DATA'),
+  ('rostros\\FernandoBenites.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\FernandoBenites.jpg',
+   'DATA'),
+  ('rostros\\HectorSilva.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\HectorSilva.jpg',
+   'DATA'),
+  ('rostros\\JaimeLescano.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JaimeLescano.jpg',
+   'DATA'),
+  ('rostros\\JeffryParedes.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JeffryParedes.jpg',
+   'DATA'),
+  ('rostros\\JhonnatanChavez.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JhonnatanChavez.jpg',
+   'DATA'),
+  ('rostros\\JoeToribio.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JoeToribio.jpg',
+   'DATA'),
+  ('rostros\\JohanVeneros.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JohanVeneros.jpg',
+   'DATA'),
+  ('rostros\\JohnAlonso.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JohnAlonso.jpg',
+   'DATA'),
+  ('rostros\\JonatanMendoza.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JonatanMendoza.jpg',
+   'DATA'),
+  ('rostros\\JoseHerrera.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JoseHerrera.jpg',
+   'DATA'),
+  ('rostros\\JosephSalinas.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JosephSalinas.jpg',
+   'DATA'),
+  ('rostros\\JuanCarranza.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JuanCarranza.jpg',
+   'DATA'),
+  ('rostros\\JuanValeriano.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\JuanValeriano.jpg',
+   'DATA'),
+  ('rostros\\KarlitaBaltodano.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\KarlitaBaltodano.jpg',
+   'DATA'),
+  ('rostros\\KevinGarcia.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\KevinGarcia.jpg',
+   'DATA'),
+  ('rostros\\LuisMostacero.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\LuisMostacero.jpg',
+   'DATA'),
+  ('rostros\\LuisReyes.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\LuisReyes.jpg',
+   'DATA'),
+  ('rostros\\MauricioTerrones.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\MauricioTerrones.jpg',
+   'DATA'),
+  ('rostros\\MelissaYengle.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\MelissaYengle.jpg',
+   'DATA'),
+  ('rostros\\RiderZevallos.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\RiderZevallos.jpg',
+   'DATA'),
+  ('rostros\\SthefanoJimenez.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\SthefanoJimenez.jpg',
+   'DATA'),
+  ('rostros\\VictorSebastian.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\VictorSebastian.jpg',
+   'DATA'),
+  ('rostros\\YeniferLazaro.jpg',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\rostros\\YeniferLazaro.jpg',
+   'DATA'),
+  ('shape_predictor_68_face_landmarks.dat',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\shape_predictor_68_face_landmarks.dat',
+   'DATA'),
+  ('cv2\\config.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\config.py',
+   'DATA'),
+  ('cv2\\config-3.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\config-3.py',
+   'DATA'),
+  ('cv2\\load_config_py3.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\load_config_py3.py',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\LICENSE.txt',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy-2.2.6.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\WHEEL',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy-2.2.6.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\entry_points.txt',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy-2.2.6.dist-info\\entry_points.txt',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\METADATA',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy-2.2.6.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\INSTALLER',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy-2.2.6.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\DELVEWHEEL',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy-2.2.6.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\RECORD',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy-2.2.6.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\REQUESTED',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\numpy-2.2.6.dist-info\\REQUESTED',
+   'DATA'),
+  ('cv2\\__init__.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\__init__.py',
+   'DATA'),
+  ('cv2\\version.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\version.py',
+   'DATA'),
+  ('cv2\\utils\\__init__.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\utils\\__init__.py',
+   'DATA'),
+  ('cv2\\typing\\__init__.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\typing\\__init__.py',
+   'DATA'),
+  ('cv2\\misc\\version.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\misc\\version.py',
+   'DATA'),
+  ('cv2\\misc\\__init__.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\misc\\__init__.py',
+   'DATA'),
+  ('cv2\\mat_wrapper\\__init__.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\mat_wrapper\\__init__.py',
+   'DATA'),
+  ('cv2\\gapi\\__init__.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\gapi\\__init__.py',
+   'DATA'),
+  ('cv2\\data\\__init__.py',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\venv_asistencia\\lib\\site-packages\\cv2\\data\\__init__.py',
+   'DATA'),
+  ('base_library.zip',
+   'D:\\Documentos upao\\7mo Ciclo\\Percepcion '
+   'Computacional\\proyecto_asistencia\\build\\reconocimiento\\base_library.zip',
+   'DATA')],
+ 'python310.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

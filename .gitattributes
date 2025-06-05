@@ -1,0 +1,2 @@
+build/reconocimiento/reconocimiento.pkg filter=lfs diff=lfs merge=lfs -text
+dist/reconocimiento.exe filter=lfs diff=lfs merge=lfs -text
